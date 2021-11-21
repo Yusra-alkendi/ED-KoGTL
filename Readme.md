@@ -1,4 +1,4 @@
 
 # Event-Denoising-Labeling-Resources
 
-![MAINCOMPONENTSOFVISUAL-LOCALIZATION](https://github.com/Yusra-alkendi/EventDenoising_GNNTransformer/commit/f41f75d417237d1081d872cd4cce1573ec21cb7c#commitcomment-60625745)
+![MAINCOMPONENTSOFVISUAL-LOCALIZATION](https://github.com/Yusra-alkendi/EventDenoising_GNNTransformer/blob/2255aa7e3d25f7a0d91183c069412aa3ea8aafcf/KOGTL3.jpg)
