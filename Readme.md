@@ -25,8 +25,8 @@ Row experimental data:
 
 
 The labelled dataset for each experimental scenarios:
-(2) " ": contains labeled event dataset of ∼750lux (Good light).
-(3) " Dataset_Lowlight_5lux": contains labeled event dataset of ∼5lux (low light). 
+(2) "Dataset_Goodlight_750lux": contains labeled event dataset of ∼750lux (Good light).
+(3) "Dataset_Lowlight_5lux": contains labeled event dataset of ∼5lux (low light). 
 
 For additional information please see the paper.
 
