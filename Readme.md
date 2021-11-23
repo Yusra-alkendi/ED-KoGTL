@@ -7,6 +7,8 @@ The proposed KoGTL labeling algorithm is divided into three main stages includin
 
 ![grab-landing-page](https://github.com/Yusra-alkendi/EventDenoising_GNNTransformer/blob/f1d9cdab93facdf39861fe72c409b1bb5aa25290/Dataset_Goodlight_750lux.gif)
 
+
+![grab-landing-page](https://github.com/Yusra-alkendi/EventDenoising_GNNTransformer/blob/c2d36cf409546c44dc055122cb114d70ed4d5a02/Dataset_Lowlight_5lux.gif)
 ## Known-object Ground-Truth Labeling (KoGTL) Framework
 
 The main idea behind the KoGTL is to use a multi-trial experimental approach to record event streams and then perform labeling. More specifically, a dynamic active pixel vision sensor (DAVIS346C) is mounted on a Universal Robot UR10 6-DOF arm, in a front forward position and repeatedly moved along a certain (identical) trajectory under various illumination conditions.
