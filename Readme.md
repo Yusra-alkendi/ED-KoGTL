@@ -5,7 +5,7 @@ The proposed KoGTL labeling algorithm is divided into three main stages includin
 
 ![MAINCOMPONENTSOFVISUAL-LOCALIZATION](https://github.com/Yusra-alkendi/EventDenoising_GNNTransformer/blob/2255aa7e3d25f7a0d91183c069412aa3ea8aafcf/KOGTL3.jpg)
 
-![grab-landing-page](https://github.com/winnie1312/grab/blob/master/grab-landingpage-winnie.gif)
+![grab-landing-page](https://github.com/Yusra-alkendi/EventDenoising_GNNTransformer/blob/f1d9cdab93facdf39861fe72c409b1bb5aa25290/Dataset_Goodlight_750lux.gif)
 
 ## Known-object Ground-Truth Labeling (KoGTL) Framework
 
