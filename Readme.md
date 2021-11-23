@@ -21,11 +21,13 @@ Several experimental scenarios are adopted where data is acquired at repeated tr
 ### Files
 
 Row experimental data:
+
 (1) "RawDVS_ExperimentalData":  raw sensor data is in ".mat" format. 
 
-
 The labelled dataset for each experimental scenarios:
+
 (2) "Dataset_Goodlight_750lux": contains labeled event dataset of ∼750lux (Good light).
+
 (3) "Dataset_Lowlight_5lux": contains labeled event dataset of ∼5lux (low light). 
 
 For additional information please see the paper.
