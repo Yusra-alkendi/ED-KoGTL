@@ -3,15 +3,9 @@
 In this paper, we propose a novel offline methodology, referred to as Known-object Ground-Truth Labeling (KoGTL) which classifies DVS events stream into two main classes: real or noise event. 
 The proposed KoGTL labeling algorithm is divided into three main stages including Event-Image Synchronization, Event-Edge Fitting and Event-Labeling as depicted in the following.
 
-
-
-
 ![MAINCOMPONENTSOFVISUAL-LOCALIZATION](https://github.com/Yusra-alkendi/EventDenoising_GNNTransformer/blob/2255aa7e3d25f7a0d91183c069412aa3ea8aafcf/KOGTL3.jpg)
 
 ## Known-object Ground-Truth Labeling (KoGTL) Framework
-
-
-This is the code for the 2021 IEEE-access paper:
 
 The main idea behind the KoGTL is to use a multi-trial experimental approach to record event streams and then perform labeling. More specifically, a dynamic active pixel vision sensor (DAVIS346C) is mounted on a Universal Robot UR10 6-DOF arm, in a front forward position and repeatedly moved along a certain (identical) trajectory under various illumination conditions.
 
@@ -25,9 +19,11 @@ Row experimental data:
 
 The labelled dataset for each experimental scenarios:
 
-**(2)** **"Dataset_Goodlight_750lux":** contains labeled event dataset, "Dataset_Lowlight_5lux.mat" of ∼750lux (Good light). 
-  \item Dataset_Lowlight_5lux.x  
-  \item 
+**(2)** **"Dataset_Goodlight_750lux":** contains labeled event dataset, "Dataset_Lowlight_5lux.mat", of ∼750lux (Good light). 
+After loading the in MATLAB. You will find
+  - "Dataset_Lowlight_5lux.x" and "Dataset_Lowlight_5lux.y" indicate the pixel coordinates at which the event occurred. 
+  - "Dataset_Lowlight_5lux.t" indicates the event’s timestamp
+  - "Dataset_Lowlight_5lux.label" indicate the event’s Label as 1 (real activity event) or 0 (noise).
 
 **(3)** **"Dataset_Lowlight_5lux":** contains labeled event dataset of ∼5lux (Low light). 
 
