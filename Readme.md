@@ -19,13 +19,18 @@ Row experimental data:
 
 The labelled dataset for each experimental scenarios:
 
-**(2)** **"Dataset_Goodlight_750lux":** contains labeled event dataset, "Dataset_Lowlight_5lux.mat", of ∼750lux (Good light). 
-After loading the in MATLAB. You will find
+**(2)** **"Dataset_Goodlight_750lux":** contains labeled event dataset, "Dataset_Goodlight_750lux.mat", of ∼750lux (Good light). 
+After loading the file in MATLAB. You will find
+  - "Dataset_Goodlight_750lux.x" and "Dataset_Lowlight_5lux.y" indicate the pixel coordinates at which the event occurred. 
+  - "Dataset_Goodlight_750lux.t" indicates the event’s timestamp
+  - "Dataset_Goodlight_750lux.label" indicate the event’s Label as 1 (real activity event) or 0 (noise).
+
+**(3)** **"Dataset_Lowlight_5lux":** contains labeled event dataset of ∼5lux (Low light). 
+After loading the file in MATLAB. You will find
   - "Dataset_Lowlight_5lux.x" and "Dataset_Lowlight_5lux.y" indicate the pixel coordinates at which the event occurred. 
   - "Dataset_Lowlight_5lux.t" indicates the event’s timestamp
   - "Dataset_Lowlight_5lux.label" indicate the event’s Label as 1 (real activity event) or 0 (noise).
 
-**(3)** **"Dataset_Lowlight_5lux":** contains labeled event dataset of ∼5lux (Low light). 
 
 For additional information please see the paper.
 
