@@ -8,7 +8,7 @@ The proposed KoGTL labeling algorithm is divided into three main stages includin
 
 ![MAINCOMPONENTSOFVISUAL-LOCALIZATION](https://github.com/Yusra-alkendi/EventDenoising_GNNTransformer/blob/2255aa7e3d25f7a0d91183c069412aa3ea8aafcf/KOGTL3.jpg)
 
-## Known-object Ground-Truth Labeling (KoGTL)Framework
+## Known-object Ground-Truth Labeling (KoGTL) Framework
 
 
 This is the code for the 2021 IEEE-access paper:
@@ -30,7 +30,6 @@ The labelled dataset for each experimental scenarios:
 **(3)** **"Dataset_Lowlight_5lux":** contains labeled event dataset of ∼5lux (Low light). 
 
 For additional information please see the paper.
-
 
 
 # Additional Notes
