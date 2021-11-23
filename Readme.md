@@ -16,7 +16,7 @@ The main idea behind the KoGTL is to use a multi-trial experimental approach to 
 The events are recorded along with two other measurements: (1) the camera pose at which the data was recorded, which we obtain through kinematics of the robot arm and (2) the intensity measurements from the scene obtained using the augmented active pixel sensor (APS images).
 Several experimental scenarios are adopted where data is acquired at repeated transnational motion of the robot along square trajectory under different lighting conditions such as ∼750lux (Good light) and ∼5lux (low light). Streams of events with corresponding APS images and robot poses were acquired for about 5s per experimental scenario. 
 
-## Event-Denoising-Labeled-Dataset- Files
+## Event Denoising Known-object Ground-Truth Labeling (ED-KoGTL) dataset - Files
 
 Row experimental data:
 
