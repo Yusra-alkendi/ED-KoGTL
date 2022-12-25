@@ -37,7 +37,7 @@ After loading the file in MATLAB. You will find
   - "Dataset_Lowlight_5lux.label" indicate the event’s Label as 1 (real activity event) or 0 (noise).
 
 
-For additional information please see the paper and <https://youtu.be/x0FXZLEenJ8>.
+For additional information please see the paper and <https://www.youtube.com/watch?v=ZM76UaxbuJE>.
 
 
 # Additional Notes
