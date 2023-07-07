@@ -42,3 +42,12 @@ For additional information please see the paper and <https://www.youtube.com/wat
 
 # Additional Notes
 Feel free to contact the repository owner if you need any help with using the Labelled dataset <yusra.alkendi@ku.ac.ae>. 
+
+# cite us
+@article{alkendi2022neuromorphic,
+  title={Neuromorphic camera denoising using graph neural network-driven transformers},
+  author={Alkendi, Yusra and Azzam, Rana and Ayyad, Abdulla and Javed, Sajid and Seneviratne, Lakmal and Zweiri, Yahya},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2022},
+  publisher={IEEE}
+}
